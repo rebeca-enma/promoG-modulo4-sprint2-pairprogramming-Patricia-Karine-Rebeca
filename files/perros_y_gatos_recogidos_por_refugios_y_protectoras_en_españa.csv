@@ -1,0 +1,37 @@
+﻿"Año";"Periodo";"Gatos";"Perros";"Total"
+"2017";"Año";"115.793";"181.967";"297.760"
+"2018";"Año";"123.149";"181.228";"304.377"
+"2019";"Año";"123.403";"183.103";"306.506"
+"2020";"Año";"124.142";"162.011";"286.153"
+;;;;
+;;;;
+"Métrica":"Gatos"
+"Fuente":"Fundación Affinity"
+"Clasificación":""
+"Unidad":"Animales"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Perros"
+"Fuente":"Fundación Affinity"
+"Clasificación":""
+"Unidad":"Animales"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Total"
+"Fuente":"Fundación Affinity"
+"Clasificación":""
+"Unidad":"Animales"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Url":"https://www.epdata.es/perros-gatos-abandonados-espana-2019-2020/0269b859-0ae7-4f85-9c36-77c8826e0b03"
+"Titulo":"Perros y gatos recogidos por refugios y protectoras en España"
+"Subtitulo":""

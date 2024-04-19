@@ -1,0 +1,27 @@
+﻿"Año";"Periodo";"Tasa de animales recuperados por sus dueños"
+"2008";"Año";"11,8"
+"2009";"Año";"13,9"
+"2010";"Año";"14,1"
+"2012";"Año";"14"
+"2013";"Año";"16,2"
+"2014";"Año";"17,5"
+"2015";"Año";"20,4"
+"2016";"Año";"15,8"
+"2017";"Año";"17,6"
+"2018";"Año";"18,2"
+"2019";"Año";"18"
+"2020";"Año";"15,6"
+;;
+;;
+"Métrica":"Tasa de animales recuperados por sus dueños"
+"Fuente":"Fundación Affinity"
+"Clasificación":""
+"Unidad":"%"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-tasa-animales-recuperados-llegan-refugios/8ac20793-5e23-49b4-9356-a5e080404c3e"
+"Titulo":"Tasa de animales recuperados que llegan a refugios en España"
+"Subtitulo":""
