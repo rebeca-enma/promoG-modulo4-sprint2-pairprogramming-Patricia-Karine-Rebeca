@@ -15,6 +15,11 @@ Actividades con perros:
 - Playas
 https://www.redcanina.es/mapa-de-las-playas-para-perros-en-espana-2016/
 
+- Restaurantes 
+https://www.viajarconperros.es/web/productos/restaurantes.html
+
+- hoteles
+https://www.turismoconperros.com/hoteles.php?gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJdiqxLfCZjpF1ZXKwRgzs1l6x6cLTUb1wY1jEQrgEOoLOXm8hP2GBBoCiBEQAvD_BwE
 
 
 
@@ -38,6 +43,8 @@ https://www.newtral.es/datos-abandono-perros-gatos/20230813/
 
 
 https://www.epdata.es/datos/abandono-animales-datos-graficos/428?accion=2
+
+https://www.hepper.com/es/estadisticas-sobre-la-industria-de-las-mascotas/
 
 
 DATASETS
