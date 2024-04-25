@@ -51,7 +51,10 @@ DATASETS
 
 https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs
 
+CENSO: 
+https://www.data.gov.uk/dataset/ec8fc820-2e36-49d0-a09c-e2901e10b2e4/dog-population-per-postcode-district/datafile/3b5bb00e-0375-44f4-a8b8-23740911f891/preview
 
+https://data.cityofnewyork.us/Health/NYC-Dog-Licensing-Dataset/nu7n-tubp/about_data
 
 
 
